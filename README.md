@@ -8,6 +8,9 @@
 | 구현 범위 | 절차적 맵 생성 · 플레이어 / 공격 · 몬스터 AI 4종 · 보스 · 아이템 · 미니맵 · UI · 세이브/로드 |
 
 ---
+### ▶ 플레이 영상
+
+[![플레이 영상](https://img.youtube.com/vi/d0pF2D2rCds/maxresdefault.jpg)](https://www.youtube.com/watch?v=d0pF2D2rCds)
 
 ## 📐 전체 구조
 
